@@ -1,0 +1,21 @@
+{
+    "cottage": {
+        "awscloudformation": {
+            "AuthRoleName": "cottagefoodsinfo-cottage-20190619215047-authRole",
+            "UnauthRoleArn": "arn:aws:iam::756646076902:role/cottagefoodsinfo-cottage-20190619215047-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::756646076902:role/cottagefoodsinfo-cottage-20190619215047-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "cottagefoodsinfo-cottage-20190619215047-deployment",
+            "UnauthRoleName": "cottagefoodsinfo-cottage-20190619215047-unauthRole",
+            "StackName": "cottagefoodsinfo-cottage-20190619215047",
+            "StackId": "arn:aws:cloudformation:us-west-2:756646076902:stack/cottagefoodsinfo-cottage-20190619215047/f8429ef0-9316-11e9-bdc9-0a4c6c316150"
+        },
+        "categories": {
+            "auth": {
+                "cottagefoodsinfoee76e70c": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"495668864540528\",\"client_secret\":\"e72fbefcec4421e302369f11bc58cb2f\"},{\"ProviderName\":\"Google\",\"client_id\":\"175781146674-l561t87avj9bf3r10vnf4v954k8a2ple.apps.googleusercontent.com\",\"client_secret\":\"AIzaSyDUoerqHztYtBtMBUWDSkbTQ846HyPSyd8\"},{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"amzn1.application-oa2-client.37df1149f81b4d11807392a27353ea53\",\"client_secret\":\"9b46e359e8e72ab60c52c3f993d1ffac99c5323b64555720165a7acd118c363d\"}]"
+                }
+            }
+        }
+    }
+}
